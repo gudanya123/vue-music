@@ -10,11 +10,11 @@
 * [x] Stylus
 * [x] Axios
 
-##效果截图
-![](https://github.com/gudanya123/vue-music/blob/master/static/vue-qq-music.png)
-![](https://github.com/gudanya123/vue-music/blob/master/static/vue-qq-music_1.png)
-![](https://github.com/gudanya123/vue-music/blob/master/static/vue-qq-music_2.png)
-![](https://github.com/gudanya123/vue-music/blob/master/static/vue-qq-music_3.png)
+## 访问地址 [https://gudanya123.github.io/vue-music/](https://gudanya123.github.io/vue-music/ "vue-music")
+
+## 扫码查看
+
+	<img alt="logo" src="https://gudanya123.github.io/vue-music//blob/master/static/vue-music.png" width="100" max-width="100%">
 
 ## Build Setup
 
@@ -31,4 +31,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+## 请点个星星鼓励，支持更多开源
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
