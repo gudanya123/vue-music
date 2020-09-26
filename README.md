@@ -10,11 +10,13 @@
 * [x] Stylus
 * [x] Axios
 
-## 访问地址 [https://gudanya123.github.io/vue-music/](https://gudanya123.github.io/vue-music/ "vue-music")
+##效果截图
+![](https://github.com/gudanya123/vue-music/blob/master/static/vue-music1.png)
+![](https://github.com/gudanya123/vue-music/blob/master/static/vue-music2.png)
+![](https://github.com/gudanya123/vue-music/blob/master/static/vue-music3.png)
 
-## 扫码查看
 
-	<img alt="logo" src="https://gudanya123.github.io/vue-music//blob/master/static/vue-music.png" width="100" max-width="100%">
+## --后面会继续完善---
 
 ## Build Setup
 
