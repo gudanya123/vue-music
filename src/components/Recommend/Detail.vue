@@ -11,7 +11,7 @@ import appicon from 'common/images/music.jpg'
 	export default{
     data(){
 			return{
-				songtitle:"aloneWang新歌推荐",
+				songtitle:"gudanya123新歌推荐",
 				recomeList:{}
 			}
 		},
