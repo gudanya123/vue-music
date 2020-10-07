@@ -112,7 +112,7 @@
 			},
 			songtitle:{
 			  type:String,
-				default:'aloneWang歌单推荐'
+				default:'gudanya123歌单推荐'
 			},
 			recomeListSonglist:{
 				type:[Object,Array],
